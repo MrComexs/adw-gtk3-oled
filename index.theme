@@ -1,6 +1,6 @@
 [X-GNOME-Metatheme]
-Name=adw-gtk3-dark
+Name=adw-gtk3-oled
 Type=X-GNOME-Metatheme
-Comment=adw-gtk3-dark theme
+Comment=adw-gtk3-oled theme
 Encoding=UTF-8
-GtkTheme=adw-gtk3-dark
+GtkTheme=adw-gtk3-oled
