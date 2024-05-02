@@ -6,7 +6,11 @@ This a fork of the adw-gtk3-dark with some css color value changes to make it be
 - text highling can't be seen
 
 ## Examples
-
+| APP              | IMAGE                                                                                                               |
+|------------------|---------------------------------------------------------------------------------------------------------------------|
+| Thunar           |![Thunar](https://github.com/MrComexs/adw-gtk3-oled/assets/57308435/56ef2de9-95c2-49d6-8034-93f321074019)            |
+| Gnome Characters |![Gnome-Characters](https://github.com/MrComexs/adw-gtk3-oled/assets/57308435/c8cbb559-1f27-4420-b00d-419d25004c5b)  |
+| HandBrake        |![HandBrake](https://github.com/MrComexs/adw-gtk3-oled/assets/57308435/ec756208-8086-44ec-924f-07c958658a61)         |
 
 ## Installation 
 1. git clone repo
