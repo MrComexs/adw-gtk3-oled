@@ -1,4 +1,4 @@
-This a fork of the adw-gtk3-dark with some css color value changes to make it better of for oled users.
+This a fork of the adw-gtk3-dark with some css color value changes to make it better for oled users.
 
 > This is still working in progress. it should work mostly fine but might have some small problems.
 
